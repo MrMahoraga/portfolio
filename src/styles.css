@@ -1,0 +1,52 @@
+.hemant {
+    color: red;
+    flex: center;
+    display: flexbox;
+    display: inline-flex;
+    gap: 50px;
+    background-color: black;
+    width: 2000px;
+    height: 80px;
+    padding-left: 700px;
+}
+
+.big {
+    color: goldenrod;
+    font-size: large;
+}
+
+.bang {
+    background: whitesmoke;
+    height: 35px;
+    width: 75px;
+    border-radius: 35px;
+    justify-items: center;
+    position: inherit;
+    padding-left: 10px;
+    padding-top: 5px;
+    box-shadow: 50px;
+    box-shadow: blueviolet;
+}
+
+
+.bro {
+    background: whitesmoke;
+    height: 35px;
+    width: 125px;
+    border-radius: 35px;
+    justify-items: center;
+    position: inherit;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.image {
+    height: 500px;
+    width: 500px;
+}
+
+.GOJO {
+    color: rgb(204, 204, 5);
+    text-align: center;
+    position: relative;
+}
